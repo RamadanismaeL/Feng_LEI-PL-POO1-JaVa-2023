@@ -1,0 +1,16 @@
+===========================================
+* * *   * * * *   A V E   * * * *   * * * *
+*******************************************
++       - - -     T I P O     - - -       +
+
+
+* * * * * * B E I J A - F L O R * * * * * *
+*******************************************
+Nome           : Ramadan
+Idade          : 56
+Cor            : Amarelo
+Altura         : 12
+Peso           : 98.3
+Patas          : 3
+Ambiente       : Selvagem
+Cor das penas  : Vermelho
