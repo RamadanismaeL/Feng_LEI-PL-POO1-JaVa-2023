@@ -1,5 +1,20 @@
 =====================================================
 - - - - - - D A D O S    D O    P E I X E - - - - - -
 -----------------------------------------------------
- Nome             : Ramadan
- Caracteristica   : Especial
+ Nome            : Ramadan
+ Caracteristica  : Especial
+ --------------
+ Nome            : Piranha
+ Caracteristica  : Corpo robusto e dentes afiados
+ --------------
+ Nome            : Peixe-leão
+ Caracteristica  : Alimenta-se de peixes menores e invertebrados
+ --------------
+ Nome            : Peixe-Lanterna
+ Caracteristica  : Corpo transparente e alongado
+ --------------
+ Nome            : Peixe-gato
+ Caracteristica  : Há várias espécies de peixes-gato
+ --------------
+ Nome            : Peixe-palhaço
+ Caracteristica  : Corpo pequeno e colorido
