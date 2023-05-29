@@ -7,16 +7,16 @@
 * * * * * * B E I J A - F L O R * * * * * *
 *******************************************
 Nome           : Ramadan
-Idade          : 56
+Idade          : 56 anos
 Cor            : Amarelo
 Altura         : 12 m
-Peso           : 98.3
+Peso           : 98.3 kg
 Patas          : 3
 Ambiente       : Selvagem
 Cor das penas  : Vermelho
 **************
 Nome           : Peito-azul
-Idade          : 7
+Idade          : 7 anos
 Cor            : Roxo
 Altura         : 13 cm
 Peso           : 4 g
@@ -25,7 +25,7 @@ Ambiente       : Jardins floridos
 Cor das penas  : Multicoloridas
 *************
 Nome           : Rubi
-Idade          : 5
+Idade          : 5 anos
 Cor            : verde brilhante
 Altura         : 11 cm
 Peso           : 3 g
