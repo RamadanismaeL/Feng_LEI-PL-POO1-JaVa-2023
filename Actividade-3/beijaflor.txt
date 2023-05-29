@@ -9,8 +9,26 @@
 Nome           : Ramadan
 Idade          : 56
 Cor            : Amarelo
-Altura         : 12
+Altura         : 12 m
 Peso           : 98.3
 Patas          : 3
 Ambiente       : Selvagem
 Cor das penas  : Vermelho
+**************
+Nome           : Peito-azul
+Idade          : 7
+Cor            : Roxo
+Altura         : 13 cm
+Peso           : 4 g
+Patas          : 2
+Ambiente       : Jardins floridos
+Cor das penas  : Multicoloridas
+*************
+Nome           : Rubi
+Idade          : 5
+Cor            : verde brilhante
+Altura         : 11 cm
+Peso           : 3 g
+Patas          : 2
+Ambiente       : Florestas tropicais
+Cor das penas  : Azul
