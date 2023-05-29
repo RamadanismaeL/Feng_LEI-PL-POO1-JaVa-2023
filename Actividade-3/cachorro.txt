@@ -7,9 +7,41 @@
 * * * * * * * C A C H O R R O * * * * * * *
 *******************************************
 Nome           : Ramadan
-Idade          : 12
-Cor            : Preto
-Altura         : 5
-Peso           : 91.3
+Idade          : 98 anos
+Cor            : Preto brilhante
+Altura         : 5 m
+Peso           : 91.3 kg
 Patas          : 4
 Ambiente       : Selvagem
+**************
+Nome           : Charlie
+Idade          : 4 anos
+Cor            : Branco
+Altura         : 30 cm
+Peso           : 6 kg
+Patas          : 4
+Ambiente       : Apartamento com rotas de caminhada nas proximidade
+**************
+Nome           : Maxi
+Idade          : 8 anos
+Cor            : Preto e marrom
+Altura         : 40 cm
+Peso           : 12 kg
+Patas          : 4
+Ambiente       : Casa com jardim e acesso a praia
+**************
+Nome           : Bella
+Idade          : 6 anos
+Cor            : Dourado
+Altura         : 55 cm
+Peso           : 20 kg
+Patas          : 4
+Ambiente       : Casa com jardim cercado
+**************
+Nome           : Rocky
+Idade          : 2 anos
+Cor            : Marrom e branco
+Altura         : 50 cm
+Peso           : 18 kg
+Patas          : 4
+Ambiente       : Casa com acesso a trilhas para caminhads
