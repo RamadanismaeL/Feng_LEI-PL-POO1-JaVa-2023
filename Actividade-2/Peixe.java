@@ -25,7 +25,7 @@ public class Peixe extends Animal {
                 +"- - - - - - D A D O S    D O    P E I X E - - - - - -"+"\n"
                 +"-----------------------------------------------------"+"\n"
                 +" Nome             : "+super.getNome()+"\n"
-                +" Caracteristica   : "+this.getCaract());
+                +" Caracteristica   : "+this.caract);
     }
     
 }
