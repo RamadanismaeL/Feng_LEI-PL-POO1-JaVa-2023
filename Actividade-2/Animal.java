@@ -44,10 +44,10 @@ public class Animal {
             this.nome = nome;
         }
     public String toString() {
-        return ( " Nome             : "+this.getNome()+"\n"
-                +" Cor              : "+this.getCor()+"\n"
-                +" Ambiente         : "+this.getAmbiente()+"\n"
-                +" Patas            : "+this.getPatas());
+        return ( " Nome             : "+this.nome+"\n"
+                +" Cor              : "+this.cor+"\n"
+                +" Ambiente         : "+this.ambiente+"\n"
+                +" Patas            : "+this.patas);
     }
     
 }
