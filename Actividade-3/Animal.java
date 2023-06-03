@@ -124,12 +124,12 @@ public class Animal implements InterAnimal {
                                                                         System.out.println("Trabalhando...!");
                                                                         }
     public String toString() {
-        return ( "Nome           : "+this.getNome()+"\n"
-                +"Idade          : "+this.getIdade()+"\n"
-                +"Cor            : "+this.getCor()+"\n"
-                +"Altura         : "+this.getAltura()+"\n"
-                +"Peso           : "+this.getPeso()+"\n"
-                +"Patas          : "+this.getPatas()+"\n"
-                +"Ambiente       : "+this.getAmbiente());
+        return ( "Nome           : "+this.nome+"\n"
+                +"Idade          : "+this.idade+"\n"
+                +"Cor            : "+this.cor+"\n"
+                +"Altura         : "+this.altura+"\n"
+                +"Peso           : "+this.peso+"\n"
+                +"Patas          : "+this.patas+"\n"
+                +"Ambiente       : "+this.ambiente);
     }
 }
